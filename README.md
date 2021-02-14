@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @woodnat3
+- 👀 I’m interested in software engineering, AI/ML, and Blockchain
+- 🌱 I’m currently learning Blockchain Applications, Computer Architecture and Computer Networking
+- 💞️ I’m looking to collaborate on anything that will give me new experience
+- 📫 How to reach me woodnateg@hotmail.com
