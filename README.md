@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @woodnat3
-- 👀 I’m interested in software engineering, AI/ML, and Blockchain
-- 🌱 I’m currently learning Blockchain Applications, Computer Architecture and Computer Networking
+- 👀 I’m interested in DevOps, Vehicle Infotainment Software and Embedded Software Development
 - 💞️ I’m looking to collaborate on anything that will give me new experience
 - 📫 How to reach me woodnateg@hotmail.com
